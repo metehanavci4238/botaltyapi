@@ -7,9 +7,9 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
-        "🔥",
-        "✨",
-        "⭐️"  
+        "Metehan 🔥",
+        "Metehan ✨",
+        "Metehan ⭐️"  
     ];
 
     setInterval(function() {
